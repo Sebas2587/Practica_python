@@ -1,0 +1,18 @@
+'''*****************Reforzamiento de conceptos basicos en python**********************'''
+
+'''El cociente de una división se 
+   calcula en Python con el operador //. 
+   El resultado es siempre un número entero, 
+   pero será de tipo entero o decimal dependiendo del tipo de los números empleados'''
+
+# las potencias se calculan con el **. ejemplo: x ** y.
+
+'''la funcion range() entrega una lista de numeros dependiendo de los valores ingresados
+   ejemplo:
+   range(5) da como resultado una lista empezando desde la pocicion 0 hasta el numero 5.
+   range(3,5) da como resultado una lista con los numeros comprendidos entre 3 y 5
+   range (3,5,2) da como resultado una lista con los numeros comprendidos entre 3 y 5 pero saltando de 2 en 2'''
+
+'''la funcion round() se utiliza para redondear un numero flotante. Ejemplo: round(2.6) da como resultado 3'''
+
+''' La funcion len() hace un conteo de la cantidad de elementos dentro de una lista, tupla, diccionario y retorna el valor'''
