@@ -1,0 +1,11 @@
+append () - Agregar un elemento al final de la lista
+extend () - Agrega todos los elementos de una lista a la otra lista
+insertar () - Insertar un elemento en el índice definido
+remove () - Elimina un elemento de la lista
+pop () : quita y devuelve un elemento en el índice dado
+clear () : elimina todos los elementos de la lista
+index () - Devuelve el índice del primer ítem coincidente
+count () - Devuelve el recuento de la cantidad de elementos aprobados como argumento
+ordenar () - Ordenar elementos en una lista en orden ascendente
+reverse () - Invertir el orden de los elementos en la lista
+copy () - Devuelve una copia superficial de la lista
