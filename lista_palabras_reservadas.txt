@@ -1,0 +1,23 @@
+'''lista de palabras reservadas en python
+
+En Python 3 las palabras exec y print han sido
+removidas, ya que ahora se presentan como funciones
+incorporadas por defecto. Por el contrario, se han 
+añadido los términos nonlocal, True, False y None. 
+Los últimos tres ya se encontraban en versiones
+anteriores a la 3.x, aunque como variables con
+valores predefinidos (a excepción de None)'''
+
+'''palabras reservadas en python 2
+and        del       from     not      while
+as         elif      global   or       with
+assert     else      if       pass     yield
+break      except    import   print
+class      exec      in       raise
+continue   finally   is       return
+def        for       lambda   try'''
+
+'''palabras reservadas en python 3
+False    None       True    and       as    assert   break    class   continue   def   del
+elif     else       except  finally   for   from     global   if      import     in    is 
+lambda   nonlocal   not     or        pass  raise    return   try     while      with  yield'''
